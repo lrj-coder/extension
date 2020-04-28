@@ -1,0 +1,11 @@
+name,age,gender
+tony,18,man
+joy,20,women
+robert,15,man
+july,18,women
+albert,27,man
+jack,20,man
+james,30,man
+richard,17,man
+hellen,17,women
+frank,25,man
